@@ -5,7 +5,7 @@ Python code and all important informations to analyse data on AirBnB reviews/rat
 The objective of this study is to analyze what variables may impact the price of housing, which districts are most popular among tourists and search for any noticable patterns and trends in the data.
 
 # Data Source
-This public dataset is part of Airbnb, and the original source can be found here: [AirBnb Data}(http://insideairbnb.com/get-the-data/)
+This public dataset is part of Airbnb, and the original source can be found here: [AirBnb Data](http://insideairbnb.com/get-the-data/)
 
 # Tools
 This project excessively uses Python and Tableau. The following tools and libraries was used in python:
