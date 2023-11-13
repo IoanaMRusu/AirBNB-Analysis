@@ -1,7 +1,7 @@
 # AirBNB-Analysis
 Python code and all important informations to analyse data on AirBnB reviews/ratings. Analysing the data to look for possible patterns to predict if a listing is good or bad based on factors, we have control over while booking an accommodation.
 
-![AirBnbProjectOverview](https://github.com/IoanaMRusu/AirBNB-Berlin-Analysis/assets/144055123/18f02c52-61e5-43cc-867e-6b62b04d28ee)
+![AirBnbProjectOverview](https://github.com/IoanaMRusu/AirBNB-Berlin-Analysis/assets/144055123/92a38213-06ae-4036-b3a3-54e6405ac64f)
 
 # Objective
 The objective of this study is to analyze what variables may impact the price of housing, which districts are most popular among tourists and search for any noticable patterns and trends in the data.
